@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Arpita Tandon
-## 🤖 Aspiring AI Engineer | Python Developer | Machine Learning Enthusiast<br><br>
+## 🤖 Aspiring AI Engineer | Python Developer | Data Science Enthusiast<br><br>
 🧠 I'm passionate about Python, Data Science, Machine Learning and Generative AI.<br>
 🚀 Currently, I'm strengthening my skills in Machine Learning and exploring modern AI technologies including LLMs, RAG, LangChain and LangGraph.<br>
 💻 I believe in learning by building practical projects and continuously improving my problem-solving skills.<br>
